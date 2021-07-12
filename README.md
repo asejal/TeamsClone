@@ -49,3 +49,16 @@ The participant list on the left shows all participants in the room identified b
   
  # Demo
 [Here](https://hidden-plateau-48120.herokuapp.com/) is a link for the live demo of the web app.
+
+# Building the Application
+
+## Agile Methodology ##
+Built in a month with each sprint one week long, the application was built following the priniciples of Agile Methodology. A weekly review is given below:
+#### Week 1 ####
+Refreshing web development basics, getting familiar with NodeJS, ExpressJS, intitial Research work, deciding on APIs and libraries to use, ended with a plan and design for the project
+#### Week 2 ####
+Implemented basic functionality to let two people connect and communicate through video call, added mute/unmute, switching video on/off, leave call feature, ended with an app with main meeting controls and basic UI
+#### Week 3 ####
+Added additional features like displaying participants in call, sending invites through email, EasyTalk Mode, etc. ended with a web app with additional features
+#### Week 4 ####
+Implementing chat option, improving UI, final changes and deploying the app, ended with a fully functional prototype will all basic features in the Microsoft Teams App
