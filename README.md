@@ -62,3 +62,5 @@ Implemented basic functionality to let two people connect and communicate throug
 Added additional features like displaying participants in call, sending invites through email, EasyTalk Mode, etc. ended with a web app with additional features
 #### Week 4 ####
 Implementing chat option, improving UI, final changes and deploying the app, ended with a fully functional prototype will all basic features in the Microsoft Teams App
+
+
